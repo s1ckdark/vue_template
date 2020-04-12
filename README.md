@@ -1,4 +1,4 @@
-# healthy
+# Vue-base-template
 
 > A Vue.js project
 
